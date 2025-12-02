@@ -1,0 +1,7 @@
+{
+  "name": "OMNI - Enterprise Service Order System",
+  "description": "A robust, role-based service order management system for enterprise operations. Features admin scheduling and contractor execution workflows.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
